@@ -1,0 +1,2 @@
+# mygo
+projects about golang
